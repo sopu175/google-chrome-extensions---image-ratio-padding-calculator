@@ -1,0 +1,13 @@
+{
+   "name": "Image Ratio Calculator",
+   "description": "Enter the width and height of your element to calculate the vertical padding needed to make your element responsive whilst maintaining its aspect ratio.",
+   "version": "1.0",
+   "manifest_version": 3,
+   "icons": {
+      "32": "/favicon-32x32.png"
+   },
+   "action": {
+      "default_popup": "index.html",
+      "default_title": "Image Ratio Calculator"
+   }
+}
